@@ -20,9 +20,9 @@ public class STT : MonoBehaviour
     /// </summary>
     /// <param name="_clip"></param>
     /// <param name="_callback"></param>
-    public virtual void SpeechToText(AudioClip _clip,Action<string> _callback)
+    public virtual void SpeechToText(AudioClip _clip, Action<string> _callback)
     {
-       
+
     }
 
     /// <summary>
